@@ -1,16 +1,18 @@
 import React from "react";
 import "./index.scss";
+import { useHistory } from "react-router-dom";
 
 import { Row, Col, Space } from "antd";
 
 const Satistics = () => {
+  let history = useHistory();
   return (
     <>
       <Row gutter={[24, 24]} id="Statistics" align="middle">
         <Col xs={24} md={12}>
           <Row align="middle">
             <Col xs={8} sm={2}>
-              <img src="/svg/back.svg" alt="back Icon" />
+              <img src="/svg/back.svg" alt="back Icon"  onClick={() => history.goBack()}/>
             </Col>
             <Col xs={8} sm={20} className="Applications">
               Applicants
