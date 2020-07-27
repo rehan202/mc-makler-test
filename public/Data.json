@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "firstName": "James",
+    "lastName": "William",
+    "email": "jameswilliam@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 1,
+      "name": "Appointment Set"
+    },
+    "bids": {
+      "flag": false,
+      "cost": "250,000"
+    },
+    "color": "64, 44, 187"
+  },
+  {
+    "id": 2,
+    "firstName": "John",
+    "lastName": "Harper",
+    "email": "johnharper@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 1,
+      "name": "Appointment Set"
+    },
+    "bids": {
+      "flag": false,
+      "cost": "250,000"
+    },
+    "color": "233, 116, 40"
+  },
+
+  {
+    "id": 3,
+    "firstName": "Mason",
+    "lastName": "Evelyn",
+    "email": "masonevelyn@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 1,
+      "name": "Appointment Set"
+    },
+    "bids": {
+      "flag": false,
+      "cost": "250,000"
+    },
+    "color": "32, 173, 197"
+  },
+  {
+    "id": 4,
+    "firstName": "Ella",
+    "lastName": "Avery",
+    "email": "ellaavery@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 2,
+      "name": "Property Viewed"
+    },
+    "bids": {
+      "flag": false,
+      "cost": "250,000"
+    },
+    "color": "64, 44, 187"
+  },
+  {
+    "id": 5,
+    "firstName": "Scarlett",
+    "lastName": "Jackson",
+    "email": "scarlettjackson@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 2,
+      "name": "Property Viewed"
+    },
+    "bids": {
+      "flag": false,
+      "cost": "250,000"
+    },
+    "color": "233, 116, 40"
+  },
+
+  {
+    "id": 6,
+    "firstName": "Madison",
+    "lastName": "Carter",
+    "email": "madisoncarter@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 2,
+      "name": "Property Viewed"
+    },
+    "bids": {
+      "flag": true,
+      "cost": "250,000"
+    },
+    "color": "32, 173, 197"
+  },
+  {
+    "id": 7,
+    "firstName": "Wyatt",
+    "lastName": "Jack",
+    "email": "Wyattjack@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 3,
+      "name": "Interested"
+    },
+    "bids": {
+      "flag": false,
+      "cost": "250,000"
+    },
+    "color": "64, 44, 187"
+  },
+  {
+    "id": 8,
+    "firstName": "Lily",
+    "lastName": "Eleanor",
+    "email": "Lilyeleanor@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 3,
+      "name": "Interested"
+    },
+    "bids": {
+      "flag": false,
+      "cost": "250,000"
+    },
+    "color": "233, 116, 40"
+  },
+
+  {
+    "id": 9,
+    "firstName": "Grayson",
+    "lastName": "Addision",
+    "email": "Graysonaddision@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 3,
+      "name": "Interested"
+    },
+    "bids": {
+      "flag": true,
+      "cost": "250,000"
+    },
+    "color": "32, 173, 197"
+  },
+  {
+    "id": 10,
+    "firstName": "Julian",
+    "lastName": "Aubrey",
+    "email": "julianaubrey@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 4,
+      "name": "Offer Accepted"
+    },
+    "bids": {
+      "flag": false,
+      "cost": "250,000"
+    },
+    "color": "64, 44, 187"
+  },
+  {
+    "id": 11,
+    "firstName": "Ellie",
+    "lastName": "Jaxon",
+    "email": "elliejaxon@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 4,
+      "name": "Offer Accepted"
+    },
+    "bids": {
+      "flag": false,
+      "cost": "250,000"
+    },
+    "color": "233, 116, 40"
+  },
+
+  {
+    "id": 12,
+    "firstName": "Lucy",
+    "lastName": "Hudson",
+    "email": "lucyhudson@live.com",
+    "phoneNumber": "123456789",
+    "status": {
+      "id": 4,
+      "name": "Offer Accepted"
+    },
+    "bids": {
+      "flag": false,
+      "cost": "250,000"
+    },
+    "color": "32, 173, 197"
+  }
+]

@@ -1,0 +1,16 @@
+#Statistics {
+  height: auto;
+  .Applications {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  #statisticsCount {
+    text-align: center;
+    .ant-col {
+      h2 {
+        font-weight: 700;
+        font-size: 1.5rem;
+      }
+    }
+  }
+}
